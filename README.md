@@ -1,1 +1,2 @@
-# Trash-ball
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
